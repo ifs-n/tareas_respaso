@@ -18,7 +18,7 @@ if valor_radom % 2 != 0:
     
 else:
     valor_par = valor_radom
-print(f"valor par {valor_par}")
+# prueba print(f"valor par {valor_par}")
 intento1 = int(input("Ingrese su primer intento: \n"))
 
 if intento1 != valor_par:
